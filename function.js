@@ -1,3 +1,3 @@
 function display(){
-let data= new formData()
+let data= new formData(arg1)
 }
